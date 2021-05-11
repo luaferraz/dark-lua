@@ -1,0 +1,22 @@
+{
+    "name": "dark-lua",
+    "displayName": "dark lua",
+    "description": "Dark Lua",
+    "version": "0.0.1",
+    "publisher": "luaCode",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Lua",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Lua-color-theme.json"
+            }
+        ]
+    }
+}
